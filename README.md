@@ -8,8 +8,7 @@ Welcome to my web development assessment repository. This contains two main part
 
 A simple and responsive personal portfolio built using only HTML and CSS.
 
-### 🔗 Live Demo
-Coming soon (You can deploy using GitHub Pages)
+ 
 
 ### ✨ Features
 - Responsive layout with sidebar and main content
